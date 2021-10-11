@@ -12,3 +12,8 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 14.0
+
+[submodule "OCA/timesheet"]
+	path = OCA/timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 14.0
